@@ -119,7 +119,7 @@ export default function Footer() {
         </div>
       </div>
       <p className="py-4 text-center text-xs md:text-sm text-gray-500">
-        Copyright 2024 © <a href="#">PrebuiltUI</a>. All Right Reserved.
+        Developed By <a href="#">Riveen_official</a>
       </p>
     </footer>
   );
