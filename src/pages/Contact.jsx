@@ -101,7 +101,7 @@ const Contact = () => {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-pink-500"
-                  placeholder="+92 300 1234567"
+                  placeholder="+94 719895456"
                 />
               </div>
 
@@ -175,8 +175,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-800 mb-1">Call Us</h3>
-                  <p className="text-gray-600">+92 300 1234567</p>
-                  <p className="text-gray-600">+92 321 7654321</p>
+                  <p className="text-gray-600">+94 710 1234567</p>
+                  <p className="text-gray-600">+94 711 7654321</p>
                 </div>
               </div>
 
