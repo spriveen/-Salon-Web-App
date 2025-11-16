@@ -23,8 +23,9 @@ export default function Footer() {
             />
           </svg>
           <p className="mt-6 text-sm text-gray-500">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been.
+            Salion is your trusted destination for modern styling, grooming, and beauty
+  care. We combine professional expertise with a relaxing atmosphere to ensure
+  you look and feel your best. Discover premium services crafted just for you
           </p>
           <div className="flex items-center gap-2 mt-3">
             <a href="#">
